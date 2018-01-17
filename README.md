@@ -31,6 +31,9 @@ Please take a moment to complete the class survey at: https://goo.gl/oti7U4.
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
 - [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
 
+### Extras 
+- [Phil Haack Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
+
 ### What's Next?
 
 After you have completed this course, you are probably wondering where to go from here:
